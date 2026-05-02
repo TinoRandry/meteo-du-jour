@@ -2,7 +2,7 @@
 
 Application météo simple et élégante utilisant l'API OpenWeatherMap.
 
-## ✨ Fonctionnalités
+## ✨✨ Fonctionnalités
 - Recherche de météo par ville
 - Affichage de la température en °C
 - Description du temps (nuageux, ensoleillé, etc.)
