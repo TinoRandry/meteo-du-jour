@@ -1,5 +1,4 @@
-require('dotenv').config();
-const apiKey = process.env.API_OPENW_MAP; 
+const apiKey = 'cff3b9e57f6c1ef9006624beb6cf73f7'; 
 const weatherCard = document.getElementById('weather-card');
 const loading = document.getElementById('loading');
 const error = document.getElementById('error');
