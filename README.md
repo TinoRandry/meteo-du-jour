@@ -2,6 +2,10 @@
 
 Application météo simple et élégante utilisant l'API OpenWeatherMap.
 
+## 🖥️ Démo en ligne
+
+🔗 **[https://tinorandry.github.io/meteo-du-jour](https://tinorandry.github.io/meteo-du-jour)**
+
 ## ✨✨ Fonctionnalités
 - Recherche de météo par ville
 - Affichage de la température en °C
